@@ -1,0 +1,89 @@
+:focus{
+    outline: none;
+}
+div { background-color: lightgrey;
+    color:rgb(119, 102, 102) ;
+    width: 35%;
+    height:490px;
+    border: 1px solid aqua;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background-color:purple;
+    color:rgba(196, 130, 130, 0.699) ;
+}
+h1 {
+    text-align: center;
+    color:black;
+    margin: 7px 0px;
+}
+p { 
+    color: black;
+    text-align:center;
+ }
+input[type=button] {
+    background-color:purple;
+    color:antiquewhite;
+    width: 40%;
+    padding: 5px 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing:border-box;
+    font-size: 19px;
+}
+input[type=password] {
+    background-color:lavenderblush;
+    color:snow;
+    width: 84%;
+    padding: 8px 12px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+#ibia{
+    text-align: left ;
+    color:rgb(119, 102, 102) ;
+    margin: 5px 0px;
+}
+input[type=email]{
+    background-color:lavenderblush ;
+    color:snow;
+    width: 84%;
+    padding: 8px 12px;
+    margin: 8px 0px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+input[type=text] {
+    background-color:lavenderblush ;
+    color: snow;
+    padding: 8px 12px;
+    margin: 8px 0px;
+    width: 84%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+#four{
+    text-align: center;
+}
+input[type=radio] {
+    display: inline;
+    margin-left: 30px;
+    color: black;
+}
+#two{
+    margin-left: 30px;
+    color: black;
+}
